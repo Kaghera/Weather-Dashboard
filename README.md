@@ -3,8 +3,7 @@
 This is a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities.
 
 
-
-
+![Screen Shot 2020-07-02 at 11 24 51 PM](https://user-images.githubusercontent.com/63524583/86429800-90f4ec80-bcbe-11ea-8fbf-e187c3531a29.png)
 
 
 ### Displays the following under current weather conditions:
